@@ -4,4 +4,9 @@
 background-image: url(Img/Logo%20transparente.png);
 background-repeat: no-repeat;
 background-size:contain;
+}body p {
+    background-size: auto;
+}
+
+@media (min-width:100px) and (max-width:800px){
 }
