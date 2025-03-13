@@ -7,6 +7,22 @@ background-size:contain;
 }body p {
     background-size: auto;
 }
+body pre {
+    size: auto;
 
-@media (min-width:100px) and (max-width:800px){
+
+}
+
+@media (min-width:0px) and (max-width:1000px){
+body p {
+}
+p {
+    size: auto;
+}
+
+
+
+
+
+
 }
